@@ -10,9 +10,9 @@ A simple and responsive static web page with client-side form validation using R
 ```
 form-validation/
 │
-├── index.html          # Main HTML file
-├── style.css           # Styling for the form
-├── script.js           # JavaScript for form validation
+├── src                 # Source file
+├── App.css             # Styling for the form
+├── App.js              # Reactjs for form validation
 └── README.md
 ```
 
